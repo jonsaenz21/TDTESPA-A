@@ -47,13 +47,13 @@ El País:
 <iframe width="560" height="315" src="https://www.youtube.com/embed/r_337InfvNU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 La Vanguardia:
-<iframe title="youtube-embed" src="https://www.youtube.com/embed/live_stream?channel=UClLLRs_mFTsNT5U-DqTYAGg&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" style="position: absolute; width: 100%; height: 100%; background-color: black;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UClLLRs_mFTsNT5U-DqTYAGg&amp;autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 EuropaPress TV:
 <iframe src="https://cdnplayer.shooowit.net/embed/4c0f5c36" style="box-shadow: 1px 1px 5px #444444;" frameborder="0" width="480" height="270" allowfullscreen></iframe>
 
 Agencia EFE:
-<iframe title="youtube-embed" src="https://www.youtube.com/embed/live_stream?channel=UCvJS-YNyaWyOucx8bGrHVvw&amp;autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen="" style="position: absolute; width: 100%; height: 100%; background-color: black;"></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/live_stream?channel=UCvJS-YNyaWyOucx8bGrHVvw&amp;autoplay=1" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Libertad Digital TV:
 <div style="position:relative;padding-bottom:56.25%;height:0;overflow:hidden;"> <iframe style="width:100%;height:100%;position:absolute;left:0px;top:0px;overflow:hidden" frameborder="0" type="text/html" src="https://www.dailymotion.com/embed/video/xnm032" width="100%" height="100%" allowfullscreen > </iframe> </div>
