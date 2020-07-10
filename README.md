@@ -150,7 +150,7 @@ CANAL SUR Andalucía:
 
 	<div>
 			<div style="position: relative; width: 77%; height: 0; padding-bottom: calc(9 / 16 * 100%);">
-    <iframe src="https://cdnapi.shooowit.net/vdmplayer/default.iframe?injectSrc=https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8&amp;miniature=https://scontent-cdg2-1.xx.fbcdn.net/v/t1.0-1/p200x200/96734901_10163500758165246_2087247384508628992_n.png?_nc_cat=109&_nc_sid=0c64ff&_nc_ohc=LLy0_mzLFzgAX-8BSSP&_nc_ht=scontent-cdg2-1.xx&oh=28e07c73c971f58eed8fdf2dfd620e06&oe=5F2E26AF" style="position: absolute; width: 88%; height: 100%; left: 0; top: 0;" allowfullscreen=""></iframe></div>
+    <iframe src="https://cdnapi.shooowit.net/vdmplayer/default.iframe?injectSrc=https://cdnlive.shooowit.net/rtvalive/channelDVR.smil/master.m3u8&amp;miniature=https://graph.facebook.com/canalsurradioytv/picture?width=200&height=200" style="position: absolute; width: 88%; height: 100%; left: 0; top: 0;" allowfullscreen=""></iframe></div>
 
 	</div>
 
