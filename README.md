@@ -194,3 +194,276 @@ CANAL SUR Andalucía:
 	</div>
 
 	</div>
+	
+101TVMálaga:
+<section id="main" class="main col-md-8">
+							<h2 style="display:none;">Main</h2>
+							<div class="blog-posts hfeed">
+								<article class="post single-post">
+                                <script src="https://secure.todostreaming.es/hls.min.js"></script><script src="https://secure.todostreaming.es/html5play.min.js"></script><video id="video_x890" controls="" width="640" height="360" src="blob:https://www.101tv.es/88beb06e-0f29-4aa0-9587-00e44ab21639"><source id="src_x890">Your browser does not support HTML5 video. We recommend using <a href="https://www.google.es/chrome/browser/desktop/">Google Chrome</a></video><script>var url = "https://secure7.todostreaming.es/live/101tv-web101tv.m3u8";html5player(url, 1, "video_x890", "src_x890");</script>
+								</article><!-- Post -->
+							</div><!-- Blog posts -->
+						</section>
+						
+						
+						
+Onda Cádiz:
+<iframe id="ls_embed_1594577639" src="https://livestream.com/accounts/22727797/events/7923562/player?width=640&height=360&enableInfoAndActivity=true&autoPlay=true&mute=false" width="640" height="360" frameborder="0" scrolling="no" allowfullscreen> </iframe>
+
+
+Mijas 3.40 TV:
+<iframe allowfullscreen="" frameborder="0" height="200px" id="flumotion_iframe_player" mozallowfullscreen="" name="flumotion_iframe_player" scrolling="no" src="https://play.mijas.webtv.flumotion.com/play/player?player=1&amp;pod=6" webkitallowfullscreen="" width="345px"></iframe>
+
+Canal 45 TV:
+<iframe src="https://yowi.tv/embed/canal45jaen/?autoplay=false" width="600" height="480"/>
+
+PTV Málaga:
+<iframe src="http://ptvtelecom.com/canales/malaga.html" 
+marginwidth="0" marginheight="0" name="ventana_iframe" scrolling="no" border="0" 
+frameborder="0" width="800" height="600">
+</iframe>
+
+Canal Sierra de Cádiz#HD1:
+<center>
+
+<video id="example_video_1" class="video-js vjs-default-skin" width="320" height="240" controls>
+<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+</video>
+<script src="https://player2.h-cdn.com/hola_player.js?customer=streamingconnect"></script>
+<script>
+;(function(){
+var sources = [{"src":"http://217.125.136.93:8080/canalsierradecadiz1080.m3u8","type":"application/x-mpegURL"}];
+var player = window.hola_player({
+auto_play: true,
+sources: sources,
+player: '#example_video_1',
+}).vjs;
+})();
+</script>
+
+Canal Sierra de Cádiz#HD2:
+<center>
+
+<video id="example_video_1" class="video-js vjs-default-skin" width="320" height="240" controls>
+<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+</video>
+<script src="https://player2.h-cdn.com/hola_player.js?customer=streamingconnect"></script>
+<script>
+;(function(){
+var sources = [{"src":"http://217.125.136.93:8080/canalsierradecadiz720.m3u8","type":"application/x-mpegURL"}];
+var player = window.hola_player({
+auto_play: true,
+sources: sources,
+player: '#example_video_1',
+}).vjs;
+})();
+</script>
+
+
+Canal Sierra de Cádiz#SD:
+<center>
+
+<video id="example_video_1" class="video-js vjs-default-skin" width="320" height="240" controls>
+<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+</video>
+<script src="https://player2.h-cdn.com/hola_player.js?customer=streamingconnect"></script>
+<script>
+;(function(){
+var sources = [{"src":"http://217.125.136.93:8080/canalsierradecadiz576.m3u8","type":"application/x-mpegURL"}];
+var player = window.hola_player({
+auto_play: true,
+sources: sources,
+player: '#example_video_1',
+}).vjs;
+})();
+</script>
+
+HUELVA TV:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/huCoReBDBsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Costa Noroeste TV:
+<!-- .page-title -->
+								<!-- .breadcrumb -->
+			</header><!-- .page-header -->
+						<article id="page-23" class="post-23 page type-page status-publish hentry">
+								<div class="entry-content">
+							<div data-elementor-type="post" data-elementor-id="23" class="elementor elementor-23" data-elementor-settings="[]">
+			<div class="elementor-inner">
+				<div class="elementor-section-wrap">
+							<section data-id="3316310" class="elementor-element elementor-element-3316310 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+				<div class="elementor-row">
+				<div data-id="b07f10e" class="elementor-element elementor-element-b07f10e elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
+			<div class="elementor-column-wrap  elementor-element-populated">
+					<div class="elementor-widget-wrap">
+				<div data-id="cff7fe3" class="elementor-element elementor-element-cff7fe3 elementor-widget elementor-widget-html" data-element_type="html.default">
+				<div class="elementor-widget-container">
+			<script src="https://secure.todostreaming.es/hls.min.js"></script><script src="https://secure.todostreaming.es/html5play.min.js"></script><video id="video_x890" controls width="840" height="480"><source id="src_x890">Your browser does not support HTML5 video. We recommend using <a href="https://www.google.es/chrome/browser/desktop/">Google Chrome</a></video><script>var url = "https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8";html5player(url, 0, "video_x890", "src_x890");</script>		</div>
+				</div>
+						</div>
+			</div>
+		</div>
+					
+INTERAMERIA TV:
+
+			<div id="content" class="content" role="main">
+
+			
+					
+					<div data-vc-full-width="true" data-vc-full-width-init="false" class="vc_row wpb_row vc_row-fluid vc_custom_1537454061910 vc_row-has-fill vc_row-o-full-height vc_row-o-columns-stretch vc_row-o-equal-height vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html" >
+		<div class="wpb_wrapper">
+			<style>
+.fluidMedia {position: relative;padding-bottom: 56.25%; height: 0;} 
+.fluidMedia video,canvas{position: absolute;top: 0;left: 0;width: 100%;height: 100%;}
+canvas {transform: scale(1.2);z-index: 1;filter: blur(50px);opacity: .3;}
+video {z-index:2;border:10px solid #00000040; border-radius:10px;margin-left: -10px}
+</style>
+<script src="https://cdn.jsdelivr.net/npm/hls.js@latest"></script>
+<div class="fluidMedia"><video id="video" controls="controls" autoplay width="300" height="150"></video>
+<canvas id="myCanvas" width=600 height=460></canvas></div>
+<script>
+function onVisibilityChange(callback) {
+    var visible = true;
+
+    if (!callback) {
+        throw new Error('no callback given');
+    }
+
+    function focused() {
+        if (!visible) {
+            callback(visible = true);
+        }
+    }
+
+    function unfocused() {
+        if (visible) {
+            callback(visible = false);
+        }
+    }
+
+    // Standards:
+    if ('hidden' in document) {
+        document.addEventListener('visibilitychange',
+            function() {(document.hidden ? unfocused : focused)()});
+    }
+    if ('mozHidden' in document) {
+        document.addEventListener('mozvisibilitychange',
+            function() {(document.mozHidden ? unfocused : focused)()});
+    }
+    if ('webkitHidden' in document) {
+        document.addEventListener('webkitvisibilitychange',
+            function() {(document.webkitHidden ? unfocused : focused)()});
+    }
+    if ('msHidden' in document) {
+        document.addEventListener('msvisibilitychange',
+            function() {(document.msHidden ? unfocused : focused)()});
+    }
+    // IE 9 and lower:
+    if ('onfocusin' in document) {
+        document.onfocusin = focused;
+        document.onfocusout = unfocused;
+    }
+    // All others:
+    window.onpageshow = window.onfocus = focused;
+    window.onpagehide = window.onblur = unfocused;
+};
+var visible = true;
+onVisibilityChange(function(_visible) {
+    visible = _visible
+});
+var video = document.getElementById('video');
+var kplay = function() {
+  if(Hls.isSupported()) {
+  
+    var hls = new Hls({'debug':false,'enableWorker':true});
+    hls.loadSource('https://interalmeria.tv/directo/live.m3u8');
+    hls.attachMedia(video);
+    hls.on(Hls.Events.MANIFEST_PARSED,function() {
+      video.play();
+  });
+  
+
+	hls.on(Hls.Events.ERROR, function (event, data) {
+    if (data.fatal) {
+      switch(data.type) {
+      case Hls.ErrorTypes.NETWORK_ERROR:
+      // try to recover network error
+        //console.log("fatal network error encountered, try to recover");
+        hls.startLoad();
+        break;
+      case Hls.ErrorTypes.MEDIA_ERROR:
+        //console.log("fatal media error encountered, try to recover");
+        hls.recoverMediaError();
+        break;
+      default:
+	  console.log("fatal err")
+      // cannot recover
+        //hls.destroy();
+        break;
+      }
+    }
+  });
+  
+  
+ }
+  else if (video.canPlayType('application/vnd.apple.mpegurl')) {
+    video.src = 'https://interalmeria.tv/directo/live.m3u8';
+    video.addEventListener('loadedmetadata',function() {
+      video.play();
+    });
+  }
+  
+}
+  
+  kplay();
+  
+  video.addEventListener('ended', function(e) {
+  console.log("video-end")
+	setTimeout(kplay, 3000)
+  })
+  video.addEventListener('error', function(e) {
+});
+
+
+  canvas = document.getElementById('myCanvas');
+  ctx = canvas.getContext('2d');
+  var timerID;
+  
+  if (!timerID)
+    timerID = window.setInterval(function() {
+		if (visible)
+			ctx.drawImage(video, 0, 0, 600, 460)
+    }, 50);
+
+function newPopup(url) {
+	popupWindow = window.open(
+		url,'popUpWindow','height=480,width=675,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes')
+}
+jQuery( document ).ready(function() {
+    jQuery('.open-me-outside-pls').click((e)=>{
+       e.preventDefault();
+       newPopup('/directo/player.html');
+       jQuery('div.fluidMedia').remove();
+       jQuery('.open-me-outside-pls').text('El vídeo se ha abierto en el reproductor externo');
+    })
+});
+</script>
+		</div>
+	</div>
+<div class="vc_empty_space"   style="height: 32px" ><span class="vc_empty_space_inner"></span></div>
+<style type="text/css" data-type="the7_shortcodes-inline-css">#default-btn-dbe3bd3441fdf1c3c609ed120c8b0608 > i {
+  font-size: 11px;
+}
+#default-btn-dbe3bd3441fdf1c3c609ed120c8b0608 * {
+  vertical-align: middle;
+}
+</style><div class="btn-align-center"><a href="#" class="default-btn-shortcode dt-btn dt-btn-m open-me-outside-pls " id="default-btn-dbe3bd3441fdf1c3c609ed120c8b0608"><span></span></a></div><div class="vc_empty_space"   style="height: 52px" ><span class="vc_empty_space_inner"></span></div>
+
+	<div class="wpb_raw_code wpb_content_element wpb_raw_html vc_custom_1553104191093" >
+		<div class="wpb_wrapper">
+		
+		
+
+
