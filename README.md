@@ -223,7 +223,7 @@ marginwidth="0" marginheight="0" name="ventana_iframe" scrolling="no" border="0"
 frameborder="0" width="800" height="600">
 </iframe>
 
-Canal Sierra de Cádiz#HD1:
+CANAL SIERRA DE CÁDIZ#HD1
 <center>
 
 <video id="example_video_1" class="video-js vjs-default-skin" width="320" height="240" controls>
@@ -250,7 +250,7 @@ Canal Sierra de Cádiz#HD2:
 <script src="https://player2.h-cdn.com/hola_player.js?customer=streamingconnect"></script>
 <script>
 ;(function(){
-var sources = [{"src":"http://217.125.136.93:8080/canalsierradecadiz720.m3u8","type":"application/x-mpegURL"}];
+var sources = [{"src":"http://217.125.136.93:8080/canalsierradecadiz720.m3u88","type":"application/x-mpegURL"}];
 var player = window.hola_player({
 auto_play: true,
 sources: sources,
@@ -279,9 +279,10 @@ player: '#example_video_1',
 </script>
 
 HUELVA TV:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/huCoReBDBsw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WYpTmloNBH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Costa Noroeste TV:
+
 <!-- .page-title -->
 								<!-- .breadcrumb -->
 			</header><!-- .page-header -->
@@ -306,7 +307,7 @@ Costa Noroeste TV:
 					
 INTERAMERIA TV:
 
-			<div id="content" class="content" role="main">
+                                <div id="content" class="content" role="main">
 
 			
 					
@@ -336,6 +337,62 @@ function onVisibilityChange(callback) {
             callback(visible = true);
         }
     }
+    
+    ARAGÓN TV:
+    <center>
+
+<video id="example_video_1" class="video-js vjs-default-skin" width="320" height="240" controls>
+<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
+</video>
+<script src="https://player2.h-cdn.com/hola_player.js?customer=streamingconnect"></script>
+<script>
+;(function(){
+var sources = [{"src":"https://cartv.streaming.aranova.es/hls/live/aragontv_canal1.m3u8","type":"application/x-mpegURL"}];
+var player = window.hola_player({
+auto_play: true,
+sources: sources,
+player: '#example_video_1',
+}).vjs;
+})();
+</script>
+
+HUESCA TV:
+</div>
+   <div class="t-Region-body">
+     <input type="hidden" id="P10_E" name="P10_E" value="4"><input type="hidden" id="P10_ID_EMISSIO" name="P10_ID_EMISSIO" value="12796325"><input type="hidden" id="P10_TITOL" name="P10_TITOL" value="Comissió de Treball, Afers Socials i Famílies"><input type="hidden" id="P10_DATA_VIDEO" name="P10_DATA_VIDEO" value="Comissió de Treball, Afers Socials i Famílies - Sessió ordinària - Sala de grups"><input type="hidden" id="P10_NUM_PODS" name="P10_NUM_PODS" value="20"><input type="hidden" id="P10_ID_AGRUPACIO" name="P10_ID_AGRUPACIO" value="17489"><input type="hidden" id="P10_URL_CANAL" name="P10_URL_CANAL" value="https:&#x2F;&#x2F;d3pqm1g0yfj2tk.cloudfront.net&#x2F;continuous&#x2F;b2fcf768-f8c1-43d3-9d06-757264d3e4c4&#x2F;index.m3u8"><input type="hidden" id="P10_URL_ORDRE_DIA" name="P10_URL_ORDRE_DIA" value="&#x2F;web&#x2F;actualitat&#x2F;ordre-dia&#x2F;index.html?p_od0=0097712030"><input type="hidden" id="P10_URL_TEMES_PENDENTS" name="P10_URL_TEMES_PENDENTS" value=""><input type="hidden" id="P10_ID_VIDEO" name="P10_ID_VIDEO" value=""><input type="hidden" id="P10_OVERRIDE" name="P10_OVERRIDE" value=""><input type="hidden" id="P10_MEDIA_TYPE" name="P10_MEDIA_TYPE" value="m3u8"><input type="hidden" id="P10_ACTIVAR_RETALLS" name="P10_ACTIVAR_RETALLS" value="S"><input type="hidden" id="P10_I" name="P10_I" value=""><div  id="R405251396587744549" style="" ></div> 
+
+         <script src="https://www.parlament.cat/js/jwplayer/8.14.0/jwplayer.js"></script>                            
+         <script type="text/javascript">jwplayer.key="enDwIdN6o3qJfado5pUZcV9FgYZikA9mLge9QH00CccoxI6r";</script>  
+         <script type="text/javascript">
+            var imatge = "https://www.parlament.cat/css/cpb/caratula_canal.png";
+            var l_file = "https://streaming2.radiohuesca.com/hls-live/livepkgr/_definst_/huescatv/huescatv.m3u8";  
+           
+            jwplayer("R405251396587744549").setup({ 
+                "aspectratio": "16:9","width": "100%",
+                "stretching": "uniform", 
+                "primary": "html5",
+                "androidhls": true,
+"hlshtml": true,
+                "autostart": true,
+                "image": imatge,
+                "file": l_file,
+                "type": "m3u8"
+                ,"cast":{}
+              });
+            jwplayer().on("play", function(){
+              setTimeout(function(){
+              var textAlt = document.querySelectorAll("#" + jwplayer().id + " .jw-controlbar-center-group .jw-text-alt")[0];
+              if(textAlt) textAlt.innerHTML = "Directe";
+              },300);
+            });
+            </script>
+    <noscript>&lt;p class="descripcio"&gt;Activeu el Javascript per gaudir de dinamisme al web.&lt;/p&gt;
+    </noscript>            
+    <style>.jwplayer { width: auto !important; }
+    </style>
+
+     
+   </div>
 
     function unfocused() {
         if (visible) {
@@ -363,6 +420,8 @@ function onVisibilityChange(callback) {
     // IE 9 and lower:
     if ('onfocusin' in document) {
         document.onfocusin = focused;
+	
+	LA
         document.onfocusout = unfocused;
     }
     // All others:
