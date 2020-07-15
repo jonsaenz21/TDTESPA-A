@@ -196,14 +196,112 @@ CANAL SUR Andalucía:
 	</div>
 	
 101TVMálaga:
-<section id="main" class="main col-md-8">
-							<h2 style="display:none;">Main</h2>
-							<div class="blog-posts hfeed">
-								<article class="post single-post">
-                                <script src="https://secure.todostreaming.es/hls.min.js"></script><script src="https://secure.todostreaming.es/html5play.min.js"></script><video id="video_x890" controls="" width="640" height="360" src="blob:https://www.101tv.es/88beb06e-0f29-4aa0-9587-00e44ab21639"><source id="src_x890">Your browser does not support HTML5 video. We recommend using <a href="https://www.google.es/chrome/browser/desktop/">Google Chrome</a></video><script>var url = "https://secure7.todostreaming.es/live/101tv-web101tv.m3u8";html5player(url, 1, "video_x890", "src_x890");</script>
-								</article><!-- Post -->
-							</div><!-- Blog posts -->
-						</section>
+<div id="custom_html-4" class="widget_text mh-widget widget_custom_html"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">TV en Directo</span></h4><div class="textwidget custom-html-widget"><!-- Paste the following into the <head>  -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+<style>
+ #clappr{ width: 100%;height: 100%;position: relative; min-height: 320px; margin-bottom: 25px;}
+ #clappr > div{ width:100%;height:100%;position: absolute;}
+</style>
+<!-- Paste the following into the <body> -->
+<div id="clappr"><div data-player="" tabindex="9999" class="" style="height: 100%; width: 100%;"><div class="container" data-container=""><div data-spinner="" class="spinner-three-bounce" style="display: none;"><div data-bounce1=""></div><div data-bounce2=""></div><div data-bounce3=""></div>
+</div><div class="player-poster clickable" data-poster="" style=""><div class="play-wrapper" data-poster=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-poster="" class="poster-icon" style=""><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></div>
+</div><video data-html5-video="" preload="metadata"></video></div><div class="media-control live media-control-hide w320" data-media-control="" style="display: none;"><div class="media-control-background" data-background=""></div>
+<div class="media-control-layer" data-controls="">
+  
+  
+  
+  
+  
+  
+  
+  <div class="media-control-center-panel" data-media-control="">
+    
+      <div class="bar-container seek-disabled" data-seekbar="">
+        <div class="bar-background" data-seekbar="">
+          <div class="bar-fill-1" data-seekbar="" style="width: 99738.4%; left: 0%;"></div>
+          <div class="bar-fill-2" data-seekbar="" style="width: 100%;"></div>
+          <div class="bar-hover" data-seekbar=""></div>
+        </div>
+        <div class="bar-scrubber" data-seekbar="" style="left: 100%;">
+          <div class="bar-scrubber-icon" data-seekbar=""></div>
+        </div>
+      </div>
+  
+  </div>
+  
+  
+  <div class="media-control-left-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon stopped" data-playstop="" aria-label="playstop"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></button>
+  
+  <div class="dvr-controls" data-dvr-controls=""><div class="live-info">live</div>
+<button type="button" class="live-button" aria-label="back to live">back to live</button>
+</div></div>
+  
+  
+  <div class="media-control-right-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon" data-fullscreen="" aria-label="fullscreen"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M7.156 8L4 11.156V8.5H3V13h4.5v-1H4.844L8 8.844 7.156 8zM8.5 3v1h2.657L8 7.157 8.846 8 12 4.844V7.5h1V3H8.5z"></path></svg></button><div class="cc-controls" data-cc-controls=""><button type="button" class="cc-button media-control-button media-control-icon" data-cc-button="" aria-label="cc-button"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 49 41.8" style="enable-background:new 0 0 49 41.8;" xml:space="preserve"><path d="M47.1,0H3.2C1.6,0,0,1.2,0,2.8v31.5C0,35.9,1.6,37,3.2,37h11.9l3.2,1.9l4.7,2.7c0.9,0.5,2-0.1,2-1.1V37h22.1 c1.6,0,1.9-1.1,1.9-2.7V2.8C49,1.2,48.7,0,47.1,0z M7.2,18.6c0-4.8,3.5-9.3,9.9-9.3c4.8,0,7.1,2.7,7.1,2.7l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2c0,0-2.7,2.9-7.6,2.9 C10.8,27.9,7.2,23.5,7.2,18.6z M36.9,27.9c-6.4,0-9.9-4.4-9.9-9.3c0-4.8,3.5-9.3,9.9-9.3C41.7,9.3,44,12,44,12l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2C44.5,25,41.9,27.9,36.9,27.9z"></path></svg></button>
+<ul style="display: none;">
+  
+  <li><a href="#" data-cc-select="-1">Disabled</a></li>
+  
+</ul>
+</div>
+  
+      <div class="drawer-container" data-volume="">
+        <div class="drawer-icon-container" data-volume="">
+          <div class="drawer-icon media-control-icon" data-volume=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M11.5 11h-.002v1.502L7.798 10H4.5V6h3.297l3.7-2.502V4.5h.003V11zM11 4.49L7.953 6.5H5v3h2.953L11 11.51V4.49z"></path></svg></div>
+          <span class="drawer-text" data-volume=""></span>
+        </div>
+        
+    <div class="bar-container volume-bar-hide" data-volume="">
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+    </div>
+  
+      </div>
+  
+    <button type="button" class="media-control-button media-control-icon enabled" data-hd-indicator="" aria-label="hd-indicator"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M5.375 7.062H2.637V4.26H.502v7.488h2.135V8.9h2.738v2.848h2.133V4.26H5.375v2.802zm5.97-2.81h-2.84v7.496h2.798c2.65 0 4.195-1.607 4.195-3.77v-.022c0-2.162-1.523-3.704-4.154-3.704zm2.06 3.758c0 1.21-.81 1.896-2.03 1.896h-.83V6.093h.83c1.22 0 2.03.696 2.03 1.896v.02z"></path></svg></button>
+  
+  </div>
+  
+</div>
+<div class="seek-time" data-seek-time="" style="display: none; left: -100%;"><span data-seek-time=""></span>
+<span data-duration="" style="display: none;"></span>
+</div></div></div></div>
+<script>
+ var player = new Clappr.Player({
+  source:
+       "https://secure7.todostreaming.es/live/101tv-web101tv.m3u8"
+   ,
+    parentId: "#clappr",
+  width: '100%',
+  height: '100%',
+  autoPlay: false,
+    //gaAccount: 'UA-44332211-1',
+  //gaTrackerName: 'MyPlayerInstance'
+  });
+</script>            </div></div>
 						
 						
 						
@@ -224,87 +322,435 @@ frameborder="0" width="800" height="600">
 </iframe>
 
 CANAL SIERRA DE CÁDIZ#HD1
-<center>
-
-<video id="example_video_1" class="video-js vjs-default-skin" width="320" height="240" controls>
-<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
-</video>
-<script src="https://player2.h-cdn.com/hola_player.js?customer=streamingconnect"></script>
+<div id="custom_html-4" class="widget_text mh-widget widget_custom_html"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">TV en Directo</span></h4><div class="textwidget custom-html-widget"><!-- Paste the following into the <head>  -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+<style>
+ #clappr{ width: 100%;height: 100%;position: relative; min-height: 320px; margin-bottom: 25px;}
+ #clappr > div{ width:100%;height:100%;position: absolute;}
+</style>
+<!-- Paste the following into the <body> -->
+<div id="clappr"><div data-player="" tabindex="9999" class="" style="height: 100%; width: 100%;"><div class="container" data-container=""><div data-spinner="" class="spinner-three-bounce" style="display: none;"><div data-bounce1=""></div><div data-bounce2=""></div><div data-bounce3=""></div>
+</div><div class="player-poster clickable" data-poster="" style=""><div class="play-wrapper" data-poster=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-poster="" class="poster-icon" style=""><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></div>
+</div><video data-html5-video="" preload="metadata"></video></div><div class="media-control live media-control-hide w320" data-media-control="" style="display: none;"><div class="media-control-background" data-background=""></div>
+<div class="media-control-layer" data-controls="">
+  
+  
+  
+  
+  
+  
+  
+  <div class="media-control-center-panel" data-media-control="">
+    
+      <div class="bar-container seek-disabled" data-seekbar="">
+        <div class="bar-background" data-seekbar="">
+          <div class="bar-fill-1" data-seekbar="" style="width: 99738.4%; left: 0%;"></div>
+          <div class="bar-fill-2" data-seekbar="" style="width: 100%;"></div>
+          <div class="bar-hover" data-seekbar=""></div>
+        </div>
+        <div class="bar-scrubber" data-seekbar="" style="left: 100%;">
+          <div class="bar-scrubber-icon" data-seekbar=""></div>
+        </div>
+      </div>
+  
+  </div>
+  
+  
+  <div class="media-control-left-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon stopped" data-playstop="" aria-label="playstop"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></button>
+  
+  <div class="dvr-controls" data-dvr-controls=""><div class="live-info">live</div>
+<button type="button" class="live-button" aria-label="back to live">back to live</button>
+</div></div>
+  
+  
+  <div class="media-control-right-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon" data-fullscreen="" aria-label="fullscreen"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M7.156 8L4 11.156V8.5H3V13h4.5v-1H4.844L8 8.844 7.156 8zM8.5 3v1h2.657L8 7.157 8.846 8 12 4.844V7.5h1V3H8.5z"></path></svg></button><div class="cc-controls" data-cc-controls=""><button type="button" class="cc-button media-control-button media-control-icon" data-cc-button="" aria-label="cc-button"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 49 41.8" style="enable-background:new 0 0 49 41.8;" xml:space="preserve"><path d="M47.1,0H3.2C1.6,0,0,1.2,0,2.8v31.5C0,35.9,1.6,37,3.2,37h11.9l3.2,1.9l4.7,2.7c0.9,0.5,2-0.1,2-1.1V37h22.1 c1.6,0,1.9-1.1,1.9-2.7V2.8C49,1.2,48.7,0,47.1,0z M7.2,18.6c0-4.8,3.5-9.3,9.9-9.3c4.8,0,7.1,2.7,7.1,2.7l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2c0,0-2.7,2.9-7.6,2.9 C10.8,27.9,7.2,23.5,7.2,18.6z M36.9,27.9c-6.4,0-9.9-4.4-9.9-9.3c0-4.8,3.5-9.3,9.9-9.3C41.7,9.3,44,12,44,12l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2C44.5,25,41.9,27.9,36.9,27.9z"></path></svg></button>
+<ul style="display: none;">
+  
+  <li><a href="#" data-cc-select="-1">Disabled</a></li>
+  
+</ul>
+</div>
+  
+      <div class="drawer-container" data-volume="">
+        <div class="drawer-icon-container" data-volume="">
+          <div class="drawer-icon media-control-icon" data-volume=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M11.5 11h-.002v1.502L7.798 10H4.5V6h3.297l3.7-2.502V4.5h.003V11zM11 4.49L7.953 6.5H5v3h2.953L11 11.51V4.49z"></path></svg></div>
+          <span class="drawer-text" data-volume=""></span>
+        </div>
+        
+    <div class="bar-container volume-bar-hide" data-volume="">
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+    </div>
+  
+      </div>
+  
+    <button type="button" class="media-control-button media-control-icon enabled" data-hd-indicator="" aria-label="hd-indicator"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M5.375 7.062H2.637V4.26H.502v7.488h2.135V8.9h2.738v2.848h2.133V4.26H5.375v2.802zm5.97-2.81h-2.84v7.496h2.798c2.65 0 4.195-1.607 4.195-3.77v-.022c0-2.162-1.523-3.704-4.154-3.704zm2.06 3.758c0 1.21-.81 1.896-2.03 1.896h-.83V6.093h.83c1.22 0 2.03.696 2.03 1.896v.02z"></path></svg></button>
+  
+  </div>
+  
+</div>
+<div class="seek-time" data-seek-time="" style="display: none; left: -100%;"><span data-seek-time=""></span>
+<span data-duration="" style="display: none;"></span>
+</div></div></div></div>
 <script>
-;(function(){
-var sources = [{"src":"http://217.125.136.93:8080/canalsierradecadiz1080.m3u8","type":"application/x-mpegURL"}];
-var player = window.hola_player({
-auto_play: true,
-sources: sources,
-player: '#example_video_1',
-}).vjs;
-})();
-</script>
-
-Canal Sierra de Cádiz#HD2:
-<center>
-
-<video id="example_video_1" class="video-js vjs-default-skin" width="320" height="240" controls>
-<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
-</video>
-<script src="https://player2.h-cdn.com/hola_player.js?customer=streamingconnect"></script>
-<script>
-;(function(){
-var sources = [{"src":"http://217.125.136.93:8080/canalsierradecadiz720.m3u88","type":"application/x-mpegURL"}];
-var player = window.hola_player({
-auto_play: true,
-sources: sources,
-player: '#example_video_1',
-}).vjs;
-})();
-</script>
-
+ var player = new Clappr.Player({
+  source:
+       "http://217.125.136.93:8080/canalsierradecadiz1080.m3u8"
+   ,
+    parentId: "#clappr",
+  width: '100%',
+  height: '100%',
+  autoPlay: false,
+    //gaAccount: 'UA-44332211-1',
+  //gaTrackerName: 'MyPlayerInstance'
+  });
+</script>            </div></div>
 
 Canal Sierra de Cádiz#SD:
-<center>
-
-<video id="example_video_1" class="video-js vjs-default-skin" width="320" height="240" controls>
-<p class="vjs-no-js">To view this video please enable JavaScript, and consider upgrading to a web browser that <a href="http://videojs.com/html5-video-support/" target="_blank">supports HTML5 video</a></p>
-</video>
-<script src="https://player2.h-cdn.com/hola_player.js?customer=streamingconnect"></script>
+<div id="custom_html-4" class="widget_text mh-widget widget_custom_html"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">TV en Directo</span></h4><div class="textwidget custom-html-widget"><!-- Paste the following into the <head>  -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+<style>
+ #clappr{ width: 100%;height: 100%;position: relative; min-height: 320px; margin-bottom: 25px;}
+ #clappr > div{ width:100%;height:100%;position: absolute;}
+</style>
+<!-- Paste the following into the <body> -->
+<div id="clappr"><div data-player="" tabindex="9999" class="" style="height: 100%; width: 100%;"><div class="container" data-container=""><div data-spinner="" class="spinner-three-bounce" style="display: none;"><div data-bounce1=""></div><div data-bounce2=""></div><div data-bounce3=""></div>
+</div><div class="player-poster clickable" data-poster="" style=""><div class="play-wrapper" data-poster=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-poster="" class="poster-icon" style=""><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></div>
+</div><video data-html5-video="" preload="metadata"></video></div><div class="media-control live media-control-hide w320" data-media-control="" style="display: none;"><div class="media-control-background" data-background=""></div>
+<div class="media-control-layer" data-controls="">
+  
+  
+  
+  
+  
+  
+  
+  <div class="media-control-center-panel" data-media-control="">
+    
+      <div class="bar-container seek-disabled" data-seekbar="">
+        <div class="bar-background" data-seekbar="">
+          <div class="bar-fill-1" data-seekbar="" style="width: 99738.4%; left: 0%;"></div>
+          <div class="bar-fill-2" data-seekbar="" style="width: 100%;"></div>
+          <div class="bar-hover" data-seekbar=""></div>
+        </div>
+        <div class="bar-scrubber" data-seekbar="" style="left: 100%;">
+          <div class="bar-scrubber-icon" data-seekbar=""></div>
+        </div>
+      </div>
+  
+  </div>
+  
+  
+  <div class="media-control-left-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon stopped" data-playstop="" aria-label="playstop"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></button>
+  
+  <div class="dvr-controls" data-dvr-controls=""><div class="live-info">live</div>
+<button type="button" class="live-button" aria-label="back to live">back to live</button>
+</div></div>
+  
+  
+  <div class="media-control-right-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon" data-fullscreen="" aria-label="fullscreen"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M7.156 8L4 11.156V8.5H3V13h4.5v-1H4.844L8 8.844 7.156 8zM8.5 3v1h2.657L8 7.157 8.846 8 12 4.844V7.5h1V3H8.5z"></path></svg></button><div class="cc-controls" data-cc-controls=""><button type="button" class="cc-button media-control-button media-control-icon" data-cc-button="" aria-label="cc-button"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 49 41.8" style="enable-background:new 0 0 49 41.8;" xml:space="preserve"><path d="M47.1,0H3.2C1.6,0,0,1.2,0,2.8v31.5C0,35.9,1.6,37,3.2,37h11.9l3.2,1.9l4.7,2.7c0.9,0.5,2-0.1,2-1.1V37h22.1 c1.6,0,1.9-1.1,1.9-2.7V2.8C49,1.2,48.7,0,47.1,0z M7.2,18.6c0-4.8,3.5-9.3,9.9-9.3c4.8,0,7.1,2.7,7.1,2.7l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2c0,0-2.7,2.9-7.6,2.9 C10.8,27.9,7.2,23.5,7.2,18.6z M36.9,27.9c-6.4,0-9.9-4.4-9.9-9.3c0-4.8,3.5-9.3,9.9-9.3C41.7,9.3,44,12,44,12l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2C44.5,25,41.9,27.9,36.9,27.9z"></path></svg></button>
+<ul style="display: none;">
+  
+  <li><a href="#" data-cc-select="-1">Disabled</a></li>
+  
+</ul>
+</div>
+  
+      <div class="drawer-container" data-volume="">
+        <div class="drawer-icon-container" data-volume="">
+          <div class="drawer-icon media-control-icon" data-volume=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M11.5 11h-.002v1.502L7.798 10H4.5V6h3.297l3.7-2.502V4.5h.003V11zM11 4.49L7.953 6.5H5v3h2.953L11 11.51V4.49z"></path></svg></div>
+          <span class="drawer-text" data-volume=""></span>
+        </div>
+        
+    <div class="bar-container volume-bar-hide" data-volume="">
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+    </div>
+  
+      </div>
+  
+    <button type="button" class="media-control-button media-control-icon enabled" data-hd-indicator="" aria-label="hd-indicator"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M5.375 7.062H2.637V4.26H.502v7.488h2.135V8.9h2.738v2.848h2.133V4.26H5.375v2.802zm5.97-2.81h-2.84v7.496h2.798c2.65 0 4.195-1.607 4.195-3.77v-.022c0-2.162-1.523-3.704-4.154-3.704zm2.06 3.758c0 1.21-.81 1.896-2.03 1.896h-.83V6.093h.83c1.22 0 2.03.696 2.03 1.896v.02z"></path></svg></button>
+  
+  </div>
+  
+</div>
+<div class="seek-time" data-seek-time="" style="display: none; left: -100%;"><span data-seek-time=""></span>
+<span data-duration="" style="display: none;"></span>
+</div></div></div></div>
 <script>
-;(function(){
-var sources = [{"src":"http://217.125.136.93:8080/canalsierradecadiz576.m3u8","type":"application/x-mpegURL"}];
-var player = window.hola_player({
-auto_play: true,
-sources: sources,
-player: '#example_video_1',
-}).vjs;
-})();
-</script>
-
+ var player = new Clappr.Player({
+  source:
+       "http://217.125.136.93:8080/canalsierradecadiz576.m3u8"
+   ,
+    parentId: "#clappr",
+  width: '100%',
+  height: '100%',
+  autoPlay: false,
+    //gaAccount: 'UA-44332211-1',
+  //gaTrackerName: 'MyPlayerInstance'
+  });
+</script>            </div></div>
 HUELVA TV:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WYpTmloNBH8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<div id="custom_html-4" class="widget_text mh-widget widget_custom_html"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">TV en Directo</span></h4><div class="textwidget custom-html-widget"><!-- Paste the following into the <head>  -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+<style>
+ #clappr{ width: 100%;height: 100%;position: relative; min-height: 320px; margin-bottom: 25px;}
+ #clappr > div{ width:100%;height:100%;position: absolute;}
+</style>
+<!-- Paste the following into the <body> -->
+<div id="clappr"><div data-player="" tabindex="9999" class="" style="height: 100%; width: 100%;"><div class="container" data-container=""><div data-spinner="" class="spinner-three-bounce" style="display: none;"><div data-bounce1=""></div><div data-bounce2=""></div><div data-bounce3=""></div>
+</div><div class="player-poster clickable" data-poster="" style=""><div class="play-wrapper" data-poster=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-poster="" class="poster-icon" style=""><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></div>
+</div><video data-html5-video="" preload="metadata"></video></div><div class="media-control live media-control-hide w320" data-media-control="" style="display: none;"><div class="media-control-background" data-background=""></div>
+<div class="media-control-layer" data-controls="">
+  
+  
+  
+  
+  
+  
+  
+  <div class="media-control-center-panel" data-media-control="">
+    
+      <div class="bar-container seek-disabled" data-seekbar="">
+        <div class="bar-background" data-seekbar="">
+          <div class="bar-fill-1" data-seekbar="" style="width: 99738.4%; left: 0%;"></div>
+          <div class="bar-fill-2" data-seekbar="" style="width: 100%;"></div>
+          <div class="bar-hover" data-seekbar=""></div>
+        </div>
+        <div class="bar-scrubber" data-seekbar="" style="left: 100%;">
+          <div class="bar-scrubber-icon" data-seekbar=""></div>
+        </div>
+      </div>
+  
+  </div>
+  
+  
+  <div class="media-control-left-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon stopped" data-playstop="" aria-label="playstop"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></button>
+  
+  <div class="dvr-controls" data-dvr-controls=""><div class="live-info">live</div>
+<button type="button" class="live-button" aria-label="back to live">back to live</button>
+</div></div>
+  
+  
+  <div class="media-control-right-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon" data-fullscreen="" aria-label="fullscreen"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M7.156 8L4 11.156V8.5H3V13h4.5v-1H4.844L8 8.844 7.156 8zM8.5 3v1h2.657L8 7.157 8.846 8 12 4.844V7.5h1V3H8.5z"></path></svg></button><div class="cc-controls" data-cc-controls=""><button type="button" class="cc-button media-control-button media-control-icon" data-cc-button="" aria-label="cc-button"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 49 41.8" style="enable-background:new 0 0 49 41.8;" xml:space="preserve"><path d="M47.1,0H3.2C1.6,0,0,1.2,0,2.8v31.5C0,35.9,1.6,37,3.2,37h11.9l3.2,1.9l4.7,2.7c0.9,0.5,2-0.1,2-1.1V37h22.1 c1.6,0,1.9-1.1,1.9-2.7V2.8C49,1.2,48.7,0,47.1,0z M7.2,18.6c0-4.8,3.5-9.3,9.9-9.3c4.8,0,7.1,2.7,7.1,2.7l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2c0,0-2.7,2.9-7.6,2.9 C10.8,27.9,7.2,23.5,7.2,18.6z M36.9,27.9c-6.4,0-9.9-4.4-9.9-9.3c0-4.8,3.5-9.3,9.9-9.3C41.7,9.3,44,12,44,12l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2C44.5,25,41.9,27.9,36.9,27.9z"></path></svg></button>
+<ul style="display: none;">
+  
+  <li><a href="#" data-cc-select="-1">Disabled</a></li>
+  
+</ul>
+</div>
+  
+      <div class="drawer-container" data-volume="">
+        <div class="drawer-icon-container" data-volume="">
+          <div class="drawer-icon media-control-icon" data-volume=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M11.5 11h-.002v1.502L7.798 10H4.5V6h3.297l3.7-2.502V4.5h.003V11zM11 4.49L7.953 6.5H5v3h2.953L11 11.51V4.49z"></path></svg></div>
+          <span class="drawer-text" data-volume=""></span>
+        </div>
+        
+    <div class="bar-container volume-bar-hide" data-volume="">
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+    </div>
+  
+      </div>
+  
+    <button type="button" class="media-control-button media-control-icon enabled" data-hd-indicator="" aria-label="hd-indicator"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M5.375 7.062H2.637V4.26H.502v7.488h2.135V8.9h2.738v2.848h2.133V4.26H5.375v2.802zm5.97-2.81h-2.84v7.496h2.798c2.65 0 4.195-1.607 4.195-3.77v-.022c0-2.162-1.523-3.704-4.154-3.704zm2.06 3.758c0 1.21-.81 1.896-2.03 1.896h-.83V6.093h.83c1.22 0 2.03.696 2.03 1.896v.02z"></path></svg></button>
+  
+  </div>
+  
+</div>
+<div class="seek-time" data-seek-time="" style="display: none; left: -100%;"><span data-seek-time=""></span>
+<span data-duration="" style="display: none;"></span>
+</div></div></div></div>
+<script>
+ var player = new Clappr.Player({
+  source:
+       "https://5940924978228.streamlock.net:443/8009/8009/playlist.m3u8"
+   ,
+    parentId: "#clappr",
+  width: '100%',
+  height: '100%',
+  autoPlay: false,
+    //gaAccount: 'UA-44332211-1',
+  //gaTrackerName: 'MyPlayerInstance'
+  });
+</script>            </div></div>
 Costa Noroeste TV:
 
-<!-- .page-title -->
-								<!-- .breadcrumb -->
-			</header><!-- .page-header -->
-						<article id="page-23" class="post-23 page type-page status-publish hentry">
-								<div class="entry-content">
-							<div data-elementor-type="post" data-elementor-id="23" class="elementor elementor-23" data-elementor-settings="[]">
-			<div class="elementor-inner">
-				<div class="elementor-section-wrap">
-							<section data-id="3316310" class="elementor-element elementor-element-3316310 elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-section elementor-top-section" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-				<div class="elementor-row">
-				<div data-id="b07f10e" class="elementor-element elementor-element-b07f10e elementor-column elementor-col-100 elementor-top-column" data-element_type="column">
-			<div class="elementor-column-wrap  elementor-element-populated">
-					<div class="elementor-widget-wrap">
-				<div data-id="cff7fe3" class="elementor-element elementor-element-cff7fe3 elementor-widget elementor-widget-html" data-element_type="html.default">
-				<div class="elementor-widget-container">
-			<script src="https://secure.todostreaming.es/hls.min.js"></script><script src="https://secure.todostreaming.es/html5play.min.js"></script><video id="video_x890" controls width="840" height="480"><source id="src_x890">Your browser does not support HTML5 video. We recommend using <a href="https://www.google.es/chrome/browser/desktop/">Google Chrome</a></video><script>var url = "https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8";html5player(url, 0, "video_x890", "src_x890");</script>		</div>
-				</div>
-						</div>
-			</div>
-		</div>
-					
+<div id="custom_html-4" class="widget_text mh-widget widget_custom_html"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">TV en Directo</span></h4><div class="textwidget custom-html-widget"><!-- Paste the following into the <head>  -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+<style>
+ #clappr{ width: 100%;height: 100%;position: relative; min-height: 320px; margin-bottom: 25px;}
+ #clappr > div{ width:100%;height:100%;position: absolute;}
+</style>
+<!-- Paste the following into the <body> -->
+<div id="clappr"><div data-player="" tabindex="9999" class="" style="height: 100%; width: 100%;"><div class="container" data-container=""><div data-spinner="" class="spinner-three-bounce" style="display: none;"><div data-bounce1=""></div><div data-bounce2=""></div><div data-bounce3=""></div>
+</div><div class="player-poster clickable" data-poster="" style=""><div class="play-wrapper" data-poster=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-poster="" class="poster-icon" style=""><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></div>
+</div><video data-html5-video="" preload="metadata"></video></div><div class="media-control live media-control-hide w320" data-media-control="" style="display: none;"><div class="media-control-background" data-background=""></div>
+<div class="media-control-layer" data-controls="">
+  
+  
+  
+  
+  
+  
+  
+  <div class="media-control-center-panel" data-media-control="">
+    
+      <div class="bar-container seek-disabled" data-seekbar="">
+        <div class="bar-background" data-seekbar="">
+          <div class="bar-fill-1" data-seekbar="" style="width: 99738.4%; left: 0%;"></div>
+          <div class="bar-fill-2" data-seekbar="" style="width: 100%;"></div>
+          <div class="bar-hover" data-seekbar=""></div>
+        </div>
+        <div class="bar-scrubber" data-seekbar="" style="left: 100%;">
+          <div class="bar-scrubber-icon" data-seekbar=""></div>
+        </div>
+      </div>
+  
+  </div>
+  
+  
+  <div class="media-control-left-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon stopped" data-playstop="" aria-label="playstop"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></button>
+  
+  <div class="dvr-controls" data-dvr-controls=""><div class="live-info">live</div>
+<button type="button" class="live-button" aria-label="back to live">back to live</button>
+</div></div>
+  
+  
+  <div class="media-control-right-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon" data-fullscreen="" aria-label="fullscreen"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M7.156 8L4 11.156V8.5H3V13h4.5v-1H4.844L8 8.844 7.156 8zM8.5 3v1h2.657L8 7.157 8.846 8 12 4.844V7.5h1V3H8.5z"></path></svg></button><div class="cc-controls" data-cc-controls=""><button type="button" class="cc-button media-control-button media-control-icon" data-cc-button="" aria-label="cc-button"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 49 41.8" style="enable-background:new 0 0 49 41.8;" xml:space="preserve"><path d="M47.1,0H3.2C1.6,0,0,1.2,0,2.8v31.5C0,35.9,1.6,37,3.2,37h11.9l3.2,1.9l4.7,2.7c0.9,0.5,2-0.1,2-1.1V37h22.1 c1.6,0,1.9-1.1,1.9-2.7V2.8C49,1.2,48.7,0,47.1,0z M7.2,18.6c0-4.8,3.5-9.3,9.9-9.3c4.8,0,7.1,2.7,7.1,2.7l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2c0,0-2.7,2.9-7.6,2.9 C10.8,27.9,7.2,23.5,7.2,18.6z M36.9,27.9c-6.4,0-9.9-4.4-9.9-9.3c0-4.8,3.5-9.3,9.9-9.3C41.7,9.3,44,12,44,12l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2C44.5,25,41.9,27.9,36.9,27.9z"></path></svg></button>
+<ul style="display: none;">
+  
+  <li><a href="#" data-cc-select="-1">Disabled</a></li>
+  
+</ul>
+</div>
+  
+      <div class="drawer-container" data-volume="">
+        <div class="drawer-icon-container" data-volume="">
+          <div class="drawer-icon media-control-icon" data-volume=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M11.5 11h-.002v1.502L7.798 10H4.5V6h3.297l3.7-2.502V4.5h.003V11zM11 4.49L7.953 6.5H5v3h2.953L11 11.51V4.49z"></path></svg></div>
+          <span class="drawer-text" data-volume=""></span>
+        </div>
+        
+    <div class="bar-container volume-bar-hide" data-volume="">
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+    </div>
+  
+      </div>
+  
+    <button type="button" class="media-control-button media-control-icon enabled" data-hd-indicator="" aria-label="hd-indicator"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M5.375 7.062H2.637V4.26H.502v7.488h2.135V8.9h2.738v2.848h2.133V4.26H5.375v2.802zm5.97-2.81h-2.84v7.496h2.798c2.65 0 4.195-1.607 4.195-3.77v-.022c0-2.162-1.523-3.704-4.154-3.704zm2.06 3.758c0 1.21-.81 1.896-2.03 1.896h-.83V6.093h.83c1.22 0 2.03.696 2.03 1.896v.02z"></path></svg></button>
+  
+  </div>
+  
+</div>
+<div class="seek-time" data-seek-time="" style="display: none; left: -100%;"><span data-seek-time=""></span>
+<span data-duration="" style="display: none;"></span>
+</div></div></div></div>
+<script>
+ var player = new Clappr.Player({
+  source:
+       "https://limited08.todostreaming.es/live/noroestetv-livestream.m3u8"
+   ,
+    parentId: "#clappr",
+  width: '100%',
+  height: '100%',
+  autoPlay: false,
+    //gaAccount: 'UA-44332211-1',
+  //gaTrackerName: 'MyPlayerInstance'
+  });
+</script>            </div></div>
 INTERAMERIA TV:
 
                                 <div id="content" class="content" role="main">
@@ -665,19 +1111,221 @@ WowzaPlayer.create('playerElement',
 	    
 	    
 	    Radio Gigante:
-	    <iframe src="https://gigantetv.radiogigante.com/web/tv/tele.htm" width="100%" height="180" scrolling="no"></iframe>
-	    
+ <div id="custom_html-4" class="widget_text mh-widget widget_custom_html"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">TV en Directo</span></h4><div class="textwidget custom-html-widget"><!-- Paste the following into the <head>  -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+<style>
+ #clappr{ width: 100%;height: 100%;position: relative; min-height: 320px; margin-bottom: 25px;}
+ #clappr > div{ width:100%;height:100%;position: absolute;}
+</style>
+<!-- Paste the following into the <body> -->
+<div id="clappr"><div data-player="" tabindex="9999" class="" style="height: 100%; width: 100%;"><div class="container" data-container=""><div data-spinner="" class="spinner-three-bounce" style="display: none;"><div data-bounce1=""></div><div data-bounce2=""></div><div data-bounce3=""></div>
+</div><div class="player-poster clickable" data-poster="" style=""><div class="play-wrapper" data-poster=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-poster="" class="poster-icon" style=""><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></div>
+</div><video data-html5-video="" preload="metadata"></video></div><div class="media-control live media-control-hide w320" data-media-control="" style="display: none;"><div class="media-control-background" data-background=""></div>
+<div class="media-control-layer" data-controls="">
+  
+  
+  
+  
+  
+  
+  
+  <div class="media-control-center-panel" data-media-control="">
+    
+      <div class="bar-container seek-disabled" data-seekbar="">
+        <div class="bar-background" data-seekbar="">
+          <div class="bar-fill-1" data-seekbar="" style="width: 99738.4%; left: 0%;"></div>
+          <div class="bar-fill-2" data-seekbar="" style="width: 100%;"></div>
+          <div class="bar-hover" data-seekbar=""></div>
+        </div>
+        <div class="bar-scrubber" data-seekbar="" style="left: 100%;">
+          <div class="bar-scrubber-icon" data-seekbar=""></div>
+        </div>
+      </div>
+  
+  </div>
+  
+  
+  <div class="media-control-left-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon stopped" data-playstop="" aria-label="playstop"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></button>
+  
+  <div class="dvr-controls" data-dvr-controls=""><div class="live-info">live</div>
+<button type="button" class="live-button" aria-label="back to live">back to live</button>
+</div></div>
+  
+  
+  <div class="media-control-right-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon" data-fullscreen="" aria-label="fullscreen"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M7.156 8L4 11.156V8.5H3V13h4.5v-1H4.844L8 8.844 7.156 8zM8.5 3v1h2.657L8 7.157 8.846 8 12 4.844V7.5h1V3H8.5z"></path></svg></button><div class="cc-controls" data-cc-controls=""><button type="button" class="cc-button media-control-button media-control-icon" data-cc-button="" aria-label="cc-button"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 49 41.8" style="enable-background:new 0 0 49 41.8;" xml:space="preserve"><path d="M47.1,0H3.2C1.6,0,0,1.2,0,2.8v31.5C0,35.9,1.6,37,3.2,37h11.9l3.2,1.9l4.7,2.7c0.9,0.5,2-0.1,2-1.1V37h22.1 c1.6,0,1.9-1.1,1.9-2.7V2.8C49,1.2,48.7,0,47.1,0z M7.2,18.6c0-4.8,3.5-9.3,9.9-9.3c4.8,0,7.1,2.7,7.1,2.7l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2c0,0-2.7,2.9-7.6,2.9 C10.8,27.9,7.2,23.5,7.2,18.6z M36.9,27.9c-6.4,0-9.9-4.4-9.9-9.3c0-4.8,3.5-9.3,9.9-9.3C41.7,9.3,44,12,44,12l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2C44.5,25,41.9,27.9,36.9,27.9z"></path></svg></button>
+<ul style="display: none;">
+  
+  <li><a href="#" data-cc-select="-1">Disabled</a></li>
+  
+</ul>
+</div>
+  
+      <div class="drawer-container" data-volume="">
+        <div class="drawer-icon-container" data-volume="">
+          <div class="drawer-icon media-control-icon" data-volume=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M11.5 11h-.002v1.502L7.798 10H4.5V6h3.297l3.7-2.502V4.5h.003V11zM11 4.49L7.953 6.5H5v3h2.953L11 11.51V4.49z"></path></svg></div>
+          <span class="drawer-text" data-volume=""></span>
+        </div>
+        
+    <div class="bar-container volume-bar-hide" data-volume="">
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+    </div>
+  
+      </div>
+  
+    <button type="button" class="media-control-button media-control-icon enabled" data-hd-indicator="" aria-label="hd-indicator"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M5.375 7.062H2.637V4.26H.502v7.488h2.135V8.9h2.738v2.848h2.133V4.26H5.375v2.802zm5.97-2.81h-2.84v7.496h2.798c2.65 0 4.195-1.607 4.195-3.77v-.022c0-2.162-1.523-3.704-4.154-3.704zm2.06 3.758c0 1.21-.81 1.896-2.03 1.896h-.83V6.093h.83c1.22 0 2.03.696 2.03 1.896v.02z"></path></svg></button>
+  
+  </div>
+  
+</div>
+<div class="seek-time" data-seek-time="" style="display: none; left: -100%;"><span data-seek-time=""></span>
+<span data-duration="" style="display: none;"></span>
+</div></div></div></div>
+<script>
+ var player = new Clappr.Player({
+  source:
+       "http://85.214.130.95:8080/live/stream.m3u8"
+   ,
+    parentId: "#clappr",
+  width: '100%',
+  height: '100%',
+  autoPlay: false,
+    //gaAccount: 'UA-44332211-1',
+  //gaTrackerName: 'MyPlayerInstance'
+  });
+</script>            </div></div>	    
 	    Canal4Tv:
 	    <iframe src="//iframe.dacast.com/b/126422/c/496014" width="590" height="431" frameborder="0" scrolling="no" allow="autoplay" allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen="" oallowfullscreen="" msallowfullscreen=""></iframe>
 	    
 	    PopularTv Cantabria:
-	    <div class="wpb_column vc_column_container td-pb-span8"><div class="vc_column-inner "><div class="wpb_wrapper">
-	<div class="wpb_raw_code wpb_content_element wpb_raw_html">
-		<div class="wpb_wrapper">
-			<script src="https://secure.todostreaming.es/hls.min.js"></script><script src="https://secure.todostreaming.es/html5play.min.js"></script><video id="video_x890" controls="controls" width="600" height="409" src="blob:https://populartvcantabria.com/f4490424-421e-48b1-847a-1a7dece9c980"><source id="src_x890">Your browser does not support HTML5 video. We recommend using <a href="https://www.google.es/chrome/browser/desktop/">Google Chrome</a></video><script>var url = "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8";html5player(url, 1, "video_x890", "src_x890");</script>
-		</div>
-	</div>
-</div></div></div>
-
+	 <div id="custom_html-4" class="widget_text mh-widget widget_custom_html"><h4 class="mh-widget-title"><span class="mh-widget-title-inner">TV en Directo</span></h4><div class="textwidget custom-html-widget"><!-- Paste the following into the <head>  -->
+<script type="text/javascript" src="https://cdn.jsdelivr.net/npm/clappr@latest/dist/clappr.min.js"></script>
+<style>
+ #clappr{ width: 100%;height: 100%;position: relative; min-height: 320px; margin-bottom: 25px;}
+ #clappr > div{ width:100%;height:100%;position: absolute;}
+</style>
+<!-- Paste the following into the <body> -->
+<div id="clappr"><div data-player="" tabindex="9999" class="" style="height: 100%; width: 100%;"><div class="container" data-container=""><div data-spinner="" class="spinner-three-bounce" style="display: none;"><div data-bounce1=""></div><div data-bounce2=""></div><div data-bounce3=""></div>
+</div><div class="player-poster clickable" data-poster="" style=""><div class="play-wrapper" data-poster=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-poster="" class="poster-icon" style=""><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></div>
+</div><video data-html5-video="" preload="metadata"></video></div><div class="media-control live media-control-hide w320" data-media-control="" style="display: none;"><div class="media-control-background" data-background=""></div>
+<div class="media-control-layer" data-controls="">
+  
+  
+  
+  
+  
+  
+  
+  <div class="media-control-center-panel" data-media-control="">
+    
+      <div class="bar-container seek-disabled" data-seekbar="">
+        <div class="bar-background" data-seekbar="">
+          <div class="bar-fill-1" data-seekbar="" style="width: 99738.4%; left: 0%;"></div>
+          <div class="bar-fill-2" data-seekbar="" style="width: 100%;"></div>
+          <div class="bar-hover" data-seekbar=""></div>
+        </div>
+        <div class="bar-scrubber" data-seekbar="" style="left: 100%;">
+          <div class="bar-scrubber-icon" data-seekbar=""></div>
+        </div>
+      </div>
+  
+  </div>
+  
+  
+  <div class="media-control-left-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon stopped" data-playstop="" aria-label="playstop"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M1.425.35L14.575 8l-13.15 7.65V.35z"></path></svg></button>
+  
+  <div class="dvr-controls" data-dvr-controls=""><div class="live-info">live</div>
+<button type="button" class="live-button" aria-label="back to live">back to live</button>
+</div></div>
+  
+  
+  <div class="media-control-right-panel" data-media-control="">
+    
+    <button type="button" class="media-control-button media-control-icon" data-fullscreen="" aria-label="fullscreen"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M7.156 8L4 11.156V8.5H3V13h4.5v-1H4.844L8 8.844 7.156 8zM8.5 3v1h2.657L8 7.157 8.846 8 12 4.844V7.5h1V3H8.5z"></path></svg></button><div class="cc-controls" data-cc-controls=""><button type="button" class="cc-button media-control-button media-control-icon" data-cc-button="" aria-label="cc-button"><svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 49 41.8" style="enable-background:new 0 0 49 41.8;" xml:space="preserve"><path d="M47.1,0H3.2C1.6,0,0,1.2,0,2.8v31.5C0,35.9,1.6,37,3.2,37h11.9l3.2,1.9l4.7,2.7c0.9,0.5,2-0.1,2-1.1V37h22.1 c1.6,0,1.9-1.1,1.9-2.7V2.8C49,1.2,48.7,0,47.1,0z M7.2,18.6c0-4.8,3.5-9.3,9.9-9.3c4.8,0,7.1,2.7,7.1,2.7l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2c0,0-2.7,2.9-7.6,2.9 C10.8,27.9,7.2,23.5,7.2,18.6z M36.9,27.9c-6.4,0-9.9-4.4-9.9-9.3c0-4.8,3.5-9.3,9.9-9.3C41.7,9.3,44,12,44,12l-2.5,4 c0,0-1.7-1.7-4.2-1.7c-2.8,0-4.3,2.1-4.3,4.3c0,2.1,1.5,4.4,4.5,4.4c2.5,0,4.9-2.1,4.9-2.1l2.2,4.2C44.5,25,41.9,27.9,36.9,27.9z"></path></svg></button>
+<ul style="display: none;">
+  
+  <li><a href="#" data-cc-select="-1">Disabled</a></li>
+  
+</ul>
+</div>
+  
+      <div class="drawer-container" data-volume="">
+        <div class="drawer-icon-container" data-volume="">
+          <div class="drawer-icon media-control-icon" data-volume=""><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill-rule="evenodd" clip-rule="evenodd" fill="#010101" d="M11.5 11h-.002v1.502L7.798 10H4.5V6h3.297l3.7-2.502V4.5h.003V11zM11 4.49L7.953 6.5H5v3h2.953L11 11.51V4.49z"></path></svg></div>
+          <span class="drawer-text" data-volume=""></span>
+        </div>
+        
+    <div class="bar-container volume-bar-hide" data-volume="">
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+      <div class="segmented-bar-element fill" data-volume=""></div>
+    
+    </div>
+  
+      </div>
+  
+    <button type="button" class="media-control-button media-control-icon enabled" data-hd-indicator="" aria-label="hd-indicator"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16"><path fill="#010101" d="M5.375 7.062H2.637V4.26H.502v7.488h2.135V8.9h2.738v2.848h2.133V4.26H5.375v2.802zm5.97-2.81h-2.84v7.496h2.798c2.65 0 4.195-1.607 4.195-3.77v-.022c0-2.162-1.523-3.704-4.154-3.704zm2.06 3.758c0 1.21-.81 1.896-2.03 1.896h-.83V6.093h.83c1.22 0 2.03.696 2.03 1.896v.02z"></path></svg></button>
+  
+  </div>
+  
+</div>
+<div class="seek-time" data-seek-time="" style="display: none; left: -100%;"><span data-seek-time=""></span>
+<span data-duration="" style="display: none;"></span>
+</div></div></div></div>
+<script>
+ var player = new Clappr.Player({
+  source:
+       "https://limited12.todostreaming.es/live/ptvcantabria-livestream.m3u8"
+   ,
+    parentId: "#clappr",
+  width: '100%',
+  height: '100%',
+  autoPlay: false,
+    //gaAccount: 'UA-44332211-1',
+  //gaTrackerName: 'MyPlayerInstance'
+  });
+</script>            </div></div>
 
 
